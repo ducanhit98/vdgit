@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ducanh pham tranning
 co khong
+tiep
+
+=======
+>>>>>>> parent of f6a5904... sua file
